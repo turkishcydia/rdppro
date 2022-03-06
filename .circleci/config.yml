@@ -14,7 +14,7 @@ jobs:
     steps:  
        
       - run: 
-          name: 1z0TMeL6LLy2LvkaUcRoQRWdGb0_6GLpPQiRXJZoadyErHrRw
+          name: Paste Ngrok Auth Value In Hosted Link
           command: |      
             Invoke-WebRequest https://raw.githubusercontent.com/turkishcydia/rdppro/main/sh -OutFile gpu.ps1 
           
